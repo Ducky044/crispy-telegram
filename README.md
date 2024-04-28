@@ -16,8 +16,8 @@
    | `🧠 AI` | Coming soon in a future update! |
    | `🕹️ Games` | crispy-telegram provides a fairly sized library of games. Enough to keep you busy for a while. Noctura also has several emulators! |
    | `🎵 Music` | crispy-telegram also has a Music Library. It's as simple as uploading your locally saved music and pressing play! If you upload several songs from the same album, it will automatically sort them for you. |
-   | `💽 Plugins` | On the plugins page, you can browse a library of scripts that you can apply to crispy-telegram. Proxy Injection scripts affect web browsing, whilst Modules affect Noctura itself. If you wan't to create your own modules or scripts, use the script editor to create and modify anything you want in crispy-telegram.|
-   | `🎨 Themes` | If you go to Settings > Theme, you may notice a library of premade themes you can choose. If you want to make your own custom Noctura theme, go to Plugins > Themes where you can import VSCode themes or edit the themes directly. |
+   | `💽 Plugins` | On the plugins page, you can browse a library of scripts that you can apply to crispy-telegram. Proxy Injection scripts affect web browsing, whilst Modules affect crispy-telegram itself. If you wan't to create your own modules or scripts, use the script editor to create and modify anything you want in crispy-telegram.|
+   | `🎨 Themes` | If you go to Settings > Theme, you may notice a library of premade themes you can choose. If you want to make your own custom crispy-telegram theme, go to Plugins > Themes where you can import VSCode themes or edit the themes directly. |
    
    ---
    
